@@ -6,7 +6,7 @@
 # 3. print everything
 # 4. rm CSV-file
 #
-# wo
+
 LANG=C.UTF-8
 LC_CTYPE="C.UTF-8"
 NOW=$(date +%Y-%m-%d-%H-%M-%S)
